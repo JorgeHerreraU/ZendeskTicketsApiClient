@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZenTicketsLib", "src\ZenTicketsLib\ZenTicketsLib.csproj", "{A14FA23D-75F4-44A7-9E4D-A6CBB3B87241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZenTicketsLib.Tests", "tests\ZenTicketsLib.Tests\ZenTicketsLib.Tests.csproj", "{CCE892F2-742B-476B-9ED8-89EA6AD2AACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A14FA23D-75F4-44A7-9E4D-A6CBB3B87241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14FA23D-75F4-44A7-9E4D-A6CBB3B87241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14FA23D-75F4-44A7-9E4D-A6CBB3B87241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14FA23D-75F4-44A7-9E4D-A6CBB3B87241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE892F2-742B-476B-9ED8-89EA6AD2AACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE892F2-742B-476B-9ED8-89EA6AD2AACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE892F2-742B-476B-9ED8-89EA6AD2AACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE892F2-742B-476B-9ED8-89EA6AD2AACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
